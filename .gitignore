@@ -1,0 +1,69 @@
+# ==============================================================================
+# GhostFrame - Git Ignore Rules
+# ==============================================================================
+
+# Build Output Directories
+build/
+Build/
+dist/
+Dist/
+bin/
+lib/
+out/
+
+# CMake Artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+# Visual Studio & MSVC Temporary Files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.pdb
+*.idb
+*.ilk
+*.obj
+*.exp
+*.lib
+*.tlog
+*.ipch
+*.log
+
+# Compiled Executables and Dynamic Libraries (except tracked assets)
+*.exe
+*.dll
+
+# Dear ImGui Runtime Configuration & Dynamic Third-Party Downloads
+imgui.ini
+third_party/imgui/
+third_party/imgui-*/
+third_party/*.zip
+
+# Temporary Debug & Scratch Logs
+procs.txt
+scratch_find_windows.ps1
+scratch/
+*.tmp
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+
+# Explicitly Keep Essential Tracked Media & Icon Assets
+!resources/
+!resources/ghostframe.ico
+!src/icon/
+!src/icon/ghostframe.png
+!src/icon/ghostframe.ico
