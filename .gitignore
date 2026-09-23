@@ -57,9 +57,10 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# IDE / Editor Settings
+# IDE, Editor & Internal Assistant Settings
 .vscode/
 .idea/
+.agents/
 
 # Explicitly Keep Essential Tracked Media & Icon Assets
 !resources/
@@ -67,6 +68,3 @@ Desktop.ini
 !src/icon/
 !src/icon/ghostframe.png
 !src/icon/ghostframe.ico
-
-.agents
-.agents/
