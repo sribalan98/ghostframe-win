@@ -67,3 +67,5 @@ Desktop.ini
 !src/icon/
 !src/icon/ghostframe.png
 !src/icon/ghostframe.ico
+
+.agents/

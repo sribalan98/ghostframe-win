@@ -2,7 +2,7 @@
 
 # GhostFrame 👻
 ### Hardware-Level Screen Capture Cloaker for OBS, Discord & Windows
-**Created by Sribalan (aka Sriyoga)**
+**Created by Sribalan (aka sriyogod)**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-blue.svg)](#system-requirements)
 [![UI](https://img.shields.io/badge/UI-DirectX%2011%20%2B%20Dear%20ImGui-1DB954.svg)](#interface)
@@ -30,7 +30,7 @@ With **GhostFrame**, any application you mark as cloaked simply disappears from 
 ## 🤖 AI Collaboration Disclosure
 
 In the spirit of complete engineering transparency:
-- **~70% of the project** was architected, tested, and fine-tuned by me (**Sribalan / Sriyoga**), including the cross-process injection architecture, Focus/Solo Mode logic, Spotify-inspired UI styling, and Windows shell filtering.
+- **~70% of the project** was architected, tested, and fine-tuned by me (**Sribalan / sriyogod**), including the cross-process injection architecture, Focus/Solo Mode logic, Spotify-inspired UI styling, and Windows shell filtering.
 - **~30% AI assistance** (using Google Antigravity & Gemini) was leveraged for Win32 API research, low-level DWM edge-case documentation, and rapid library boilerplate.
 
 ---
@@ -131,11 +131,11 @@ GhostFrame is released under the **[PolyForm Noncommercial License 1.0.0](LICENS
 
 - **Free to Use:** Completely free for streamers, gamers, developers, students, and personal use.
 - **Collaboration:** You are free to fork, study, modify, and submit pull requests.
-- **Non-Commercial Restriction:** You may **NOT** sell this software, repackage it into paid commercial products, or monetize it without prior written permission from **Sribalan (Sriyoga)**.
+- **Non-Commercial Restriction:** You may **NOT** sell this software, repackage it into paid commercial products, or monetize it without prior written permission from **Sribalan (sriyogod)**.
 
 ---
 
 <div align="center">
-  <b>Built with ❤️ by Sribalan (aka Sriyoga)</b><br>
+  <b>Built with ❤️ by Sribalan (aka sriyogod)</b><br>
   <i>Empowering creators with real desktop privacy.</i>
 </div>
